@@ -1,0 +1,1 @@
+/home/kshitiz/catkin_ws/devel/.private/ebot_controller/lib/pkgconfig/ebot_controller.pc
